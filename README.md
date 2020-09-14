@@ -1,7 +1,9 @@
 # Salman Afzal - iOS Developer
 
 <div class="entry">
-    <p>Software Engineer as an iOS Developer since <strong>more than 1.5yrs</strong>. Developed native iOS apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
+    <p>Experienced with native mobile development especially android development. Knowledgeable of android studio with java and kotlin.Worked on different kind of apps including Firebase, Chat, Google Api’s, SQLite database, Room database, Rest Api’s. I have also good experience with .NET c# and . I have also good experience with Flutter apps. 
+        
+        Software Engineer as an iOS Developer since <strong>more than 1.5yrs</strong>. Developed native iOS apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
 
 
 <h2 id="skills">Skills</h2>
