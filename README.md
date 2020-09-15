@@ -6,7 +6,7 @@
 
 <h2 id="skills">Skills</h2>
 <p>Currently using <strong>Java</strong>, 1 year<br>
-<strong>REST, GraphQL(Apollo), Firebase, Unit Tests, CoreData, Google Maps, Map box, Map Kit, One signal, Agora, Sinch, AVFoundation, Accessibility, Publish android app on appstore</strong><br>
+<strong>REST, GraphQL(Apollo), Firebase, Unit Tests, CoreData, Google Maps, Map box, Map Kit, One signal, Agora, Sinch, AVFoundation, Accessibility, Publish android app on play store</strong><br>
 <strong>Tools:</strong> GitHub, Bitbucker, Redmine, Trello, Skype </p>
   </div>
   
