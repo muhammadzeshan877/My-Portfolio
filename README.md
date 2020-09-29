@@ -13,7 +13,7 @@
  # Here At My Local
 [Here At My Local](https://play.google.com/store/apps/details?id=com.tech.hereatproject&hl=en)An app to help local independent businesses, advertise, sell and reward customer loyalty.
 <p align="center">
-<img src="HAML2.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HAML5.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HAML3.png" width="228" title="DarkRoom">
+<img src="HAML2.png" width="230"  title="HereAtMyLocal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HAML5.png" width="230" title="HereAtMyLocal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HAML3.png" width="228" title="HereAtMyLocal">
 </p>
 
 
@@ -22,5 +22,5 @@
 [ModernGawala](https://play.google.com/store/apps/details?id=com.modern.moderngawala&hl=en) is a online dairy items ordering app. 
 
 <p align="center">
-<img src="items.jpeg" width="230"  title="ModernGawala">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="detail.jpeg" width="230" title="ModernGawala">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="bucket.jpeg" width="228" title="HelloDoctor">
+<img src="items.jpeg" width="230"  title="ModernGawala">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="detail.jpeg" width="230" title="ModernGawala">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="bucket.jpeg" width="228" title="ModernGawala">
 </p>
