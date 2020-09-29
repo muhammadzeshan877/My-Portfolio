@@ -10,6 +10,14 @@
 <strong>Tools:</strong> GitHub, Bitbucker, Redmine, Trello, Skype </p>
   </div>
   
+ # Quick Receipt
+Quick receipt is easy to generate receipt and invoice for your customers. 
+
+<p align="center">
+<img src="qr1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qr2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qr3.jpeg" width="228" title="DarkRoom">
+</p>
+  
+  
  # Here At My Local
 [Here At My Local](https://play.google.com/store/apps/details?id=com.tech.hereatproject&hl=en) An app to help local independent businesses, advertise, sell and reward customer loyalty.
 <p align="center">
@@ -26,12 +34,7 @@
 </p>
 
 
-  # Quick Receipt
-Quick receipt is easy to generate receipt and invoice for your customers. 
 
-<p align="center">
-<img src="qr1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qr2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qr3.jpeg" width="228" title="DarkRoom">
-</p>
 
   # Redmine (Flutter)
 Redmine allows you to manage the projects and tasks the employees of your company are working on. The system provides communication with all the executors online.
