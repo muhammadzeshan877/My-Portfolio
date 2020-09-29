@@ -20,10 +20,8 @@
 </p>
 
   # Modern Gawala
-[ModernGawala](https://play.google.com/store/apps/details?id=com.modern.moderngawala&hl=en) is a online food ordering app. An app to help local independent businesses, advertise, sell and reward customer loyalty.
-
-<!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
+[ModernGawala](https://play.google.com/store/apps/details?id=com.modern.moderngawala&hl=en) is a online dairy items ordering app. 
 
 <p align="center">
-<img src="images.jpg" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images.jpg" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images.jpg" width="228" title="HelloDoctor">
+<img src="images.jpg" width="230"  title="ModernGawala">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images.jpg" width="230" title="ModernGawala">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images.jpg" width="228" title="HelloDoctor">
 </p>
