@@ -11,7 +11,7 @@
   </div>
   
  # Here At My Local
-[Here At My Local](https://play.google.com/store/apps/details?id=com.tech.hereatproject&hl=en)An app to help local independent businesses, advertise, sell and reward customer loyalty.
+[Here At My Local](https://play.google.com/store/apps/details?id=com.tech.hereatproject&hl=en) An app to help local independent businesses, advertise, sell and reward customer loyalty.
 <p align="center">
 <img src="HMAL2.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HAML5.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HAML3.png" width="228" title="DarkRoom">
 </p>
@@ -20,6 +20,14 @@
 
   # Modern Gawala
 [ModernGawala](https://play.google.com/store/apps/details?id=com.modern.moderngawala&hl=en) is a online dairy items ordering app. 
+
+<p align="center">
+<img src="items.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="detail.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="bucket.jpeg" width="228" title="DarkRoom">
+</p>
+
+
+  # Quick Receipt
+Quick receipt is easy to generate receipt and invoice for your customers. 
 
 <p align="center">
 <img src="items.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="detail.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="bucket.jpeg" width="228" title="DarkRoom">
