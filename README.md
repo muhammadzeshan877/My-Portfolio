@@ -42,6 +42,14 @@ With its help, the company employees always get new tasks in time, exchange docu
 </p>
 
 
+  # Sahaara (Desktop)
+inventory and account management system.
+
+<p align="center">
+<img src="redmine1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redmine2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redmine3.jpeg" width="228" title="DarkRoom">
+</p>
+
+
 
 # Contact Info:
 
