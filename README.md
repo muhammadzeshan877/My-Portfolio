@@ -33,12 +33,12 @@ Quick receipt is easy to generate receipt and invoice for your customers.
 <img src="qr1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qr2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qr3.jpeg" width="228" title="DarkRoom">
 </p>
 
-  # Redmine
+  # Redmine (Flutter)
 Redmine allows you to manage the projects and tasks the employees of your company are working on. The system provides communication with all the executors online.
 With its help, the company employees always get new tasks in time, exchange documents and report on the work done.
 
 <p align="center">
-<img src="qr1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qr2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qr3.jpeg" width="228" title="DarkRoom">
+<img src="redmine1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redmine2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redmine3.jpeg" width="228" title="DarkRoom">
 </p>
 
 
