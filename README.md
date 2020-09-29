@@ -23,5 +23,5 @@
 [ModernGawala](https://play.google.com/store/apps/details?id=com.modern.moderngawala&hl=en) is a online dairy items ordering app. 
 
 <p align="center">
-<img src="images.jpg" width="230"  title="ModernGawala">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images.jpg" width="230" title="ModernGawala">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images.jpg" width="228" title="HelloDoctor">
+<img src="items.jpeg" width="230"  title="ModernGawala">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="detail.jpeg" width="230" title="ModernGawala">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="bucket.jpeg" width="228" title="HelloDoctor">
 </p>
