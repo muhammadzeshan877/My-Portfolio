@@ -1,7 +1,7 @@
 # Muhammad Zeshan - Android Developer
 
 <div class="entry">
-    <p>Experienced with native mobile development especially android development. Knowledgeable of android studio with java and kotlin.Worked on different kind of apps including Firebase, Chat, Google Api’s, SQLite database, Room database, Rest Api’s. I have also good experience with .NET c# and have a good command sql. I have also good experience with Flutter apps.<br>
+    <p>Experienced with native mobile development especially android development. Knowledgeable of android studio with java and kotlin.Worked on different kind of apps including Firebase, Chat, Google Api’s, SQLite database, Room database, Rest Api’s. I have good experience with .NET c# and have a good command sql. I have also good experience with Flutter apps.<br>
 
 
 <h2 id="skills">Skills</h2>
