@@ -13,7 +13,7 @@
  # Here At My Local
 [Here At My Local](https://play.google.com/store/apps/details?id=com.tech.hereatproject&hl=en)An app to help local independent businesses, advertise, sell and reward customer loyalty.
 <p align="center">
-<img src="HAML2.png" width="230"  title="HereAtMyLocal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HAML5.png" width="230" title="HereAtMyLocal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HAML3.png" width="228" title="HereAtMyLocal">
+<img src="HMAL2.png" width="230"  title="HereAtMyLocal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HAML5.png" width="230" title="HereAtMyLocal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="HAML3.png" width="228" title="HereAtMyLocal">
 </p>
 
 
