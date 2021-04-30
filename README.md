@@ -10,6 +10,14 @@
 <strong>Tools:</strong> GitHub, Bitbucker, Redmine, Trello, Skype </p>
   </div>
   
+   # Ertugrul Gazi Ringtones
+Dirilis Ertugrul Ghazi ringtone application included all ertugrul drama ringtones for all android devices.Free download ertugrul ringtone app.
+
+<p align="center">
+<img src="ertugrul1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ertugrul2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ertugrul33.jpeg" width="228" title="DarkRoom">
+</p>
+  
+  
  # Quick Receipt
 Quick receipt is easy to generate receipt and invoice for your customers. 
 
