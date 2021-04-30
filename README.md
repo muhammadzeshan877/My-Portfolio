@@ -11,7 +11,7 @@
   </div>
   
    # Ertugrul Gazi Ringtones
-Complete collection of Ertugrul Gazi Ringtones. Set as Default ringtone, set as Contact ringtone, Download ringtone, Add to Favourite.
+Complete collection of Ertugrul Gazi Ringtones. Set as Default ringtone, Set as Contact ringtone, Download ringtone, Add to Favourite.
 
 <p align="center">
 <img src="ertugrul3.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ertugrul2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ertugrul33.jpeg" width="230" title="DarkRoom">
