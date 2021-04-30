@@ -11,10 +11,10 @@
   </div>
   
    # Ertugrul Gazi Ringtones
-Dirilis Ertugrul Ghazi ringtone application included all ertugrul drama ringtones for all android devices.Free download ertugrul ringtone app.
+Complete collection of Ertugrul Gazi Ringtones. Set as Default ringtone, set as Contact ringtone, Download ringtone, Add to Favourite.
 
 <p align="center">
-<img src="ertugrul1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ertugrul2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ertugrul33.jpeg" width="228" title="DarkRoom">
+<img src="1st.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ertugrul2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ertugrul33.jpeg" width="228" title="DarkRoom">
 </p>
   
   
