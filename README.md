@@ -42,7 +42,7 @@
 [Islamic Ringtones](https://play.google.com/store/apps/details?id=com.islamicringtones.islam.bestislamicringtones) is Complete collection of Islamic Ringtones. Set as Default ringtone, Set as Contact ringtone, Download ringtone, Add to Favourite.
 
 <p align="center">
-<img src="islamictone1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="islamictone2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="islamictone3.jpeg" width="230" title="DarkRoom">
+<img src="islamicring1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="islamicring2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="islamicring3.jpeg" width="230" title="DarkRoom">
 </p>
   
  # Quick Receipt
