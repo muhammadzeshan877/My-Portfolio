@@ -17,11 +17,11 @@
 <img src="ertugrul3.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ertugrul2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ertugrul33.jpeg" width="230" title="DarkRoom">
 </p>
   
-   # Butterfly Wallpaper 4K 2021
-[Butterfly Wallpaper 4K](https://play.google.com/store/apps/details?id=com.butterflyhdwallpaper.butterflies.background) is contains a collection of beautiful butterflies wallpapers. All butterfly wallpapers in full- 4K HD quality. Set as Home Screen, Set as Lock Screen, Download and Share wallpapers.
+   # Islamic Wallpaper hd 2021- 4k
+[Islamic Wallpaper](https://play.google.com/store/apps/details?id=com.islamicwallpapers.hdwallpapers) is free and high quality 4k wall paper app . It Contains a collection of Islamic wallpapers. Backgrounds of the Qur'an Dua Hadith Sujood Sabr Istighfaar Adkar beautiful Islamic pictures.
 
 <p align="center">
-<img src="fly1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="fly2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="fly3.jpeg" width="230" title="DarkRoom">
+<img src="islamicwal1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="islamicwal2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="islamicwal3.jpeg" width="230" title="DarkRoom">
 </p>
 
    # Islamic Calendar Salat Time
@@ -31,7 +31,12 @@
 <img src="salat1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="salat2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="salat3.jpeg" width="230" title="DarkRoom">
 </p>
   
-  
+   # Butterfly Wallpaper 4K 2021
+[Butterfly Wallpaper 4K](https://play.google.com/store/apps/details?id=com.butterflyhdwallpaper.butterflies.background) is contains a collection of beautiful butterflies wallpapers. All butterfly wallpapers in full- 4K HD quality. Set as Home Screen, Set as Lock Screen, Download and Share wallpapers.
+
+<p align="center">
+<img src="fly1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="fly2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="fly3.jpeg" width="230" title="DarkRoom">
+</p>
   
  # Quick Receipt
 Quick receipt is easy to generate receipt and invoice for your customers. 
