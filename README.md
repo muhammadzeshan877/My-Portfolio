@@ -23,6 +23,13 @@
 <p align="center">
 <img src="fly1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="fly2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="fly3.jpeg" width="230" title="DarkRoom">
 </p>
+
+   # Islamic Calendar Salat Time
+[Islamic Calendar Salat Time](https://play.google.com/store/apps/details?id=com.salattime.islamiccalender) is the most powerful Islamic App that facilitates busy Muslims to achieve their Islamic goals better and easier all year round.
+
+<p align="center">
+<img src="salat1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="salat2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="salat3.jpeg" width="230" title="DarkRoom">
+</p>
   
   
   
