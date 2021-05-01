@@ -44,6 +44,13 @@
 <p align="center">
 <img src="islamicring1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="islamicring2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="islamicring3.jpeg" width="230" title="DarkRoom">
 </p>
+
+  # Qibla Finder: Accurate Qibla Direction
+[Qibla Finder](https://play.google.com/store/apps/details?id=com.qiblacompass.qibla.direction.finder) is a GPS compass that helps Muslims to find accurate Qibla direction from anywhere in the world.
+
+<p align="center">
+<img src="qibla1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qibla2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qibla3.jpeg" width="230" title="DarkRoom">
+</p>
   
  # Quick Receipt
 Quick receipt is easy to generate receipt and invoice for your customers. 
