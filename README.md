@@ -58,6 +58,13 @@ Quick receipt is easy to generate receipt and invoice for your customers.
 <p align="center">
 <img src="qr1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qr2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qr3.jpeg" width="230" title="DarkRoom">
 </p>
+
+ # Translate App
+Translate all langue – Voice text translator is so cool for language conversion and translation.
+
+<p align="center">
+<img src="trans1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="trans2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="trans3.jpeg" width="230" title="DarkRoom">
+</p>
   
   
  # Here At My Local
