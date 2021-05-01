@@ -51,6 +51,14 @@
 <p align="center">
 <img src="qibla1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qibla2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qibla3.jpeg" width="230" title="DarkRoom">
 </p>
+
+ # 4K HD Wallpapers 
+Our application is free, faster and offers the best collection of popular, free and high resolution featured wallpaper.
+
+<p align="center">
+<img src="walpaper1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="walpaper2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="walpaper3.jpeg" width="230" title="DarkRoom">
+</p>
+
   
  # Quick Receipt
 Quick receipt is easy to generate receipt and invoice for your customers. 
